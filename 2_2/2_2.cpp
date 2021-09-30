@@ -25,4 +25,5 @@ void main()
 			Aa = false;
 		}
 	}
+	system("pause");
 }
