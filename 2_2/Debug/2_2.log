@@ -1,0 +1,4 @@
+﻿  2_2.cpp
+C:\Users\Dekond\source\repos\2_2\2_2\2_2.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Dekond\source\repos\2_2\2_2\2_2.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+  2_2.vcxproj -> C:\Users\Dekond\source\repos\2_2\Debug\2_2.exe
