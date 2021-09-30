@@ -8,7 +8,6 @@ void main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	string Line = "", word = "";
-	string abobus = "string";
 	bool Aa = false;
 	printf("Введите текст: ");
 	getline(cin, Line);
